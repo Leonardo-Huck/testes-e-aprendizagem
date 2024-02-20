@@ -1,0 +1,14 @@
+C:\dev\MeuApp\bin\Debug\net8.0\MeuApp.exe
+C:\dev\MeuApp\bin\Debug\net8.0\MeuApp.deps.json
+C:\dev\MeuApp\bin\Debug\net8.0\MeuApp.runtimeconfig.json
+C:\dev\MeuApp\bin\Debug\net8.0\MeuApp.dll
+C:\dev\MeuApp\bin\Debug\net8.0\MeuApp.pdb
+C:\dev\MeuApp\obj\Debug\net8.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MeuApp\obj\Debug\net8.0\MeuApp.AssemblyInfoInputs.cache
+C:\dev\MeuApp\obj\Debug\net8.0\MeuApp.AssemblyInfo.cs
+C:\dev\MeuApp\obj\Debug\net8.0\MeuApp.csproj.CoreCompileInputs.cache
+C:\dev\MeuApp\obj\Debug\net8.0\MeuApp.dll
+C:\dev\MeuApp\obj\Debug\net8.0\refint\MeuApp.dll
+C:\dev\MeuApp\obj\Debug\net8.0\MeuApp.pdb
+C:\dev\MeuApp\obj\Debug\net8.0\MeuApp.genruntimeconfig.cache
+C:\dev\MeuApp\obj\Debug\net8.0\ref\MeuApp.dll

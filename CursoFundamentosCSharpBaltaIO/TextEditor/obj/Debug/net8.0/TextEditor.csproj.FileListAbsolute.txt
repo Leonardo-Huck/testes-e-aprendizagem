@@ -1,0 +1,14 @@
+c:\dev\TextEditor\bin\Debug\net8.0\TextEditor.exe
+c:\dev\TextEditor\bin\Debug\net8.0\TextEditor.deps.json
+c:\dev\TextEditor\bin\Debug\net8.0\TextEditor.runtimeconfig.json
+c:\dev\TextEditor\bin\Debug\net8.0\TextEditor.dll
+c:\dev\TextEditor\bin\Debug\net8.0\TextEditor.pdb
+c:\dev\TextEditor\obj\Debug\net8.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+c:\dev\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfoInputs.cache
+c:\dev\TextEditor\obj\Debug\net8.0\TextEditor.AssemblyInfo.cs
+c:\dev\TextEditor\obj\Debug\net8.0\TextEditor.csproj.CoreCompileInputs.cache
+c:\dev\TextEditor\obj\Debug\net8.0\TextEditor.dll
+c:\dev\TextEditor\obj\Debug\net8.0\refint\TextEditor.dll
+c:\dev\TextEditor\obj\Debug\net8.0\TextEditor.pdb
+c:\dev\TextEditor\obj\Debug\net8.0\TextEditor.genruntimeconfig.cache
+c:\dev\TextEditor\obj\Debug\net8.0\ref\TextEditor.dll
