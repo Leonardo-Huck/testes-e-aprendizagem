@@ -1,0 +1,14 @@
+C:\dev\MicrosoftLearn\csharp-call-methods\CallMethods\bin\Debug\net8.0\CallMethods.exe
+C:\dev\MicrosoftLearn\csharp-call-methods\CallMethods\bin\Debug\net8.0\CallMethods.deps.json
+C:\dev\MicrosoftLearn\csharp-call-methods\CallMethods\bin\Debug\net8.0\CallMethods.runtimeconfig.json
+C:\dev\MicrosoftLearn\csharp-call-methods\CallMethods\bin\Debug\net8.0\CallMethods.dll
+C:\dev\MicrosoftLearn\csharp-call-methods\CallMethods\bin\Debug\net8.0\CallMethods.pdb
+C:\dev\MicrosoftLearn\csharp-call-methods\CallMethods\obj\Debug\net8.0\CallMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MicrosoftLearn\csharp-call-methods\CallMethods\obj\Debug\net8.0\CallMethods.AssemblyInfoInputs.cache
+C:\dev\MicrosoftLearn\csharp-call-methods\CallMethods\obj\Debug\net8.0\CallMethods.AssemblyInfo.cs
+C:\dev\MicrosoftLearn\csharp-call-methods\CallMethods\obj\Debug\net8.0\CallMethods.csproj.CoreCompileInputs.cache
+C:\dev\MicrosoftLearn\csharp-call-methods\CallMethods\obj\Debug\net8.0\CallMethods.dll
+C:\dev\MicrosoftLearn\csharp-call-methods\CallMethods\obj\Debug\net8.0\refint\CallMethods.dll
+C:\dev\MicrosoftLearn\csharp-call-methods\CallMethods\obj\Debug\net8.0\CallMethods.pdb
+C:\dev\MicrosoftLearn\csharp-call-methods\CallMethods\obj\Debug\net8.0\CallMethods.genruntimeconfig.cache
+C:\dev\MicrosoftLearn\csharp-call-methods\CallMethods\obj\Debug\net8.0\ref\CallMethods.dll

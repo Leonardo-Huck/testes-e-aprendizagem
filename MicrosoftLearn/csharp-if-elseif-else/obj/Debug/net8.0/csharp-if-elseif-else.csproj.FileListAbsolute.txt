@@ -1,0 +1,14 @@
+C:\dev\MicrosoftLearn\csharp-if-elseif-else\bin\Debug\net8.0\csharp-if-elseif-else.exe
+C:\dev\MicrosoftLearn\csharp-if-elseif-else\bin\Debug\net8.0\csharp-if-elseif-else.deps.json
+C:\dev\MicrosoftLearn\csharp-if-elseif-else\bin\Debug\net8.0\csharp-if-elseif-else.runtimeconfig.json
+C:\dev\MicrosoftLearn\csharp-if-elseif-else\bin\Debug\net8.0\csharp-if-elseif-else.dll
+C:\dev\MicrosoftLearn\csharp-if-elseif-else\bin\Debug\net8.0\csharp-if-elseif-else.pdb
+C:\dev\MicrosoftLearn\csharp-if-elseif-else\obj\Debug\net8.0\csharp-if-elseif-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\MicrosoftLearn\csharp-if-elseif-else\obj\Debug\net8.0\csharp-if-elseif-else.AssemblyInfoInputs.cache
+C:\dev\MicrosoftLearn\csharp-if-elseif-else\obj\Debug\net8.0\csharp-if-elseif-else.AssemblyInfo.cs
+C:\dev\MicrosoftLearn\csharp-if-elseif-else\obj\Debug\net8.0\csharp-if-elseif-else.csproj.CoreCompileInputs.cache
+C:\dev\MicrosoftLearn\csharp-if-elseif-else\obj\Debug\net8.0\csharp-if-elseif-else.dll
+C:\dev\MicrosoftLearn\csharp-if-elseif-else\obj\Debug\net8.0\refint\csharp-if-elseif-else.dll
+C:\dev\MicrosoftLearn\csharp-if-elseif-else\obj\Debug\net8.0\csharp-if-elseif-else.pdb
+C:\dev\MicrosoftLearn\csharp-if-elseif-else\obj\Debug\net8.0\csharp-if-elseif-else.genruntimeconfig.cache
+C:\dev\MicrosoftLearn\csharp-if-elseif-else\obj\Debug\net8.0\ref\csharp-if-elseif-else.dll
