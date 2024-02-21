@@ -1,0 +1,15 @@
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-arrays\bin\Debug\net8.0\csharp-arrays.exe
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-arrays\bin\Debug\net8.0\csharp-arrays.deps.json
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-arrays\bin\Debug\net8.0\csharp-arrays.runtimeconfig.json
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-arrays\bin\Debug\net8.0\csharp-arrays.dll
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-arrays\bin\Debug\net8.0\csharp-arrays.pdb
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-arrays\obj\Debug\net8.0\csharp-arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-arrays\obj\Debug\net8.0\csharp-arrays.AssemblyInfoInputs.cache
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-arrays\obj\Debug\net8.0\csharp-arrays.AssemblyInfo.cs
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-arrays\obj\Debug\net8.0\csharp-arrays.csproj.CoreCompileInputs.cache
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-arrays\obj\Debug\net8.0\csharp-arrays.sourcelink.json
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-arrays\obj\Debug\net8.0\csharp-arrays.dll
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-arrays\obj\Debug\net8.0\refint\csharp-arrays.dll
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-arrays\obj\Debug\net8.0\csharp-arrays.pdb
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-arrays\obj\Debug\net8.0\csharp-arrays.genruntimeconfig.cache
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-arrays\obj\Debug\net8.0\ref\csharp-arrays.dll
