@@ -35,4 +35,14 @@ foreach (int items in inventory)
     Console.WriteLine($"Bin {bin} = {items} items (Running total: {sum})");
 }
 
-Console.WriteLine($"We have {sum} items in inventory.");
+Console.WriteLine($"We have {sum} items in inventory.\n");
+Console.WriteLine("-------------DESAFIO--------------");
+Console.WriteLine("----------------------------------\n");
+
+string[] elementsIDs = {"B123" , "C234", "A345", "C15", "B177", "G3003", "C235", "B179"};
+
+foreach (var element in elementsIDs)
+ {
+     if (element.StartsWith("B"))
+          Console.WriteLine(element);
+ }
