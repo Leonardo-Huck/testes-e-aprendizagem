@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharp-arrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7076d7277e737d52232c1babbc1a27ecc446b455")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0143c7a3c68237adbe45970a2da34810e66a0264")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharp-arrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharp-arrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
