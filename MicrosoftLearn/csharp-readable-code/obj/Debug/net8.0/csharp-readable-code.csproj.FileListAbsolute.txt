@@ -1,0 +1,15 @@
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-readable-code\obj\Debug\net8.0\csharp-readable-code.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-readable-code\obj\Debug\net8.0\csharp-readable-code.AssemblyInfoInputs.cache
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-readable-code\obj\Debug\net8.0\csharp-readable-code.AssemblyInfo.cs
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-readable-code\obj\Debug\net8.0\csharp-readable-code.csproj.CoreCompileInputs.cache
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-readable-code\obj\Debug\net8.0\csharp-readable-code.sourcelink.json
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-readable-code\bin\Debug\net8.0\csharp-readable-code.exe
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-readable-code\bin\Debug\net8.0\csharp-readable-code.deps.json
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-readable-code\bin\Debug\net8.0\csharp-readable-code.runtimeconfig.json
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-readable-code\bin\Debug\net8.0\csharp-readable-code.dll
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-readable-code\bin\Debug\net8.0\csharp-readable-code.pdb
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-readable-code\obj\Debug\net8.0\csharp-readable-code.dll
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-readable-code\obj\Debug\net8.0\refint\csharp-readable-code.dll
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-readable-code\obj\Debug\net8.0\csharp-readable-code.pdb
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-readable-code\obj\Debug\net8.0\csharp-readable-code.genruntimeconfig.cache
+C:\dev\Github\teste clone github\testes-e-aprendizagem\MicrosoftLearn\csharp-readable-code\obj\Debug\net8.0\ref\csharp-readable-code.dll
