@@ -28,3 +28,16 @@ foreach (var orderID in orderIDs)
 {
     Console.WriteLine(orderID);
 }
+
+// Exemplos de como os espaçoes em branco são ignorados pelo compilador:
+
+Console
+.
+WriteLine
+(
+"Hello Example 1!"
+)
+;
+
+// Exemplo 2:
+string firstWord = "Hello"; string lastWord = "Example 2"; Console.WriteLine(firstWord + " " + lastWord + "!");
