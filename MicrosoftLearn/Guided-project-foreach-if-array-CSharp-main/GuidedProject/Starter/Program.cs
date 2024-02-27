@@ -26,28 +26,20 @@ foreach (string name in studentNames)
 
     if (currentStudent == "Sophia")
        studentScores = sophiaScores;
-
     else if (currentStudent == "Andrew")
         studentScores = andrewScores;
-
     else if (currentStudent == "Emma")
         studentScores = emmaScores;
-
     else if (currentStudent == "Logan")
         studentScores = loganScores;
-
     else if (currentStudent == "Becky")
         studentScores = beckyScores;
-
     else if (currentStudent == "Chris")
         studentScores = chrisScores;
-
     else if (currentStudent == "Eric")
         studentScores = ericScores;
-
     else if (currentStudent == "Gregor")
         studentScores = gregorScores;
-        
     else
         continue;
 
@@ -79,40 +71,28 @@ foreach (string name in studentNames)
 
     if (currentStudentGrade >= 97)
         currentStudentLetterGrade = "A+";
-
     else if (currentStudentGrade >= 93)
         currentStudentLetterGrade = "A";
-
     else if (currentStudentGrade >= 90)
         currentStudentLetterGrade = "A-";
-
     else if (currentStudentGrade >= 87)
         currentStudentLetterGrade = "B+";
-
     else if (currentStudentGrade >= 83)
         currentStudentLetterGrade = "B";
-
     else if (currentStudentGrade >= 80)
         currentStudentLetterGrade = "B-";
-
     else if (currentStudentGrade >= 77)
         currentStudentLetterGrade = "C+";
-
     else if (currentStudentGrade >= 73)
         currentStudentLetterGrade = "C";
-
     else if (currentStudentGrade >= 70)
         currentStudentLetterGrade = "C-";
-
     else if (currentStudentGrade >= 67)
         currentStudentLetterGrade = "D+";
-
     else if (currentStudentGrade >= 63)
         currentStudentLetterGrade = "D";
-
     else if (currentStudentGrade >= 60)
         currentStudentLetterGrade = "D-";
-
     else
         currentStudentLetterGrade = "F";
 
