@@ -1,0 +1,15 @@
+C:\dev\Github\teste clone github\testes-e-aprendizagem\poocsharp\02Metodos\obj\Debug\net8.0\02Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\Github\teste clone github\testes-e-aprendizagem\poocsharp\02Metodos\obj\Debug\net8.0\02Metodos.AssemblyInfoInputs.cache
+C:\dev\Github\teste clone github\testes-e-aprendizagem\poocsharp\02Metodos\obj\Debug\net8.0\02Metodos.AssemblyInfo.cs
+C:\dev\Github\teste clone github\testes-e-aprendizagem\poocsharp\02Metodos\obj\Debug\net8.0\02Metodos.csproj.CoreCompileInputs.cache
+C:\dev\Github\teste clone github\testes-e-aprendizagem\poocsharp\02Metodos\obj\Debug\net8.0\02Metodos.sourcelink.json
+C:\dev\Github\teste clone github\testes-e-aprendizagem\poocsharp\02Metodos\bin\Debug\net8.0\02Metodos.exe
+C:\dev\Github\teste clone github\testes-e-aprendizagem\poocsharp\02Metodos\bin\Debug\net8.0\02Metodos.deps.json
+C:\dev\Github\teste clone github\testes-e-aprendizagem\poocsharp\02Metodos\bin\Debug\net8.0\02Metodos.runtimeconfig.json
+C:\dev\Github\teste clone github\testes-e-aprendizagem\poocsharp\02Metodos\bin\Debug\net8.0\02Metodos.dll
+C:\dev\Github\teste clone github\testes-e-aprendizagem\poocsharp\02Metodos\bin\Debug\net8.0\02Metodos.pdb
+C:\dev\Github\teste clone github\testes-e-aprendizagem\poocsharp\02Metodos\obj\Debug\net8.0\02Metodos.dll
+C:\dev\Github\teste clone github\testes-e-aprendizagem\poocsharp\02Metodos\obj\Debug\net8.0\refint\02Metodos.dll
+C:\dev\Github\teste clone github\testes-e-aprendizagem\poocsharp\02Metodos\obj\Debug\net8.0\02Metodos.pdb
+C:\dev\Github\teste clone github\testes-e-aprendizagem\poocsharp\02Metodos\obj\Debug\net8.0\02Metodos.genruntimeconfig.cache
+C:\dev\Github\teste clone github\testes-e-aprendizagem\poocsharp\02Metodos\obj\Debug\net8.0\ref\02Metodos.dll
